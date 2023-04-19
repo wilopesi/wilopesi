@@ -55,10 +55,6 @@
 </a>
 
 <a align="center">
-   <img alt="visual code" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</a>
-
-<a align="center">
    <img alt="azure" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 </a>
 
@@ -66,7 +62,10 @@
     <img alt="bootstrap" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />       
  </a>
  
- 
+ <a align="center">
+   <img alt="java script" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</a>
+
  <a align="center">
     <img alt="css" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />    
  </a>
@@ -76,6 +75,9 @@
     <img alt="html" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />               
  </a>
  
+ <a align="center">
+   <img alt="jquery" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+</a>
  
  <a align="center">
     <img alt="java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
