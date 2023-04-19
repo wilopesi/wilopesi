@@ -3,7 +3,7 @@
 
 <p>
 
- Hi ! I'm a Full-Stack Developer. I work at **Dell Tecnchologies** in analysis and development of internal system to support the Brazil sales operations.
+ Hi ! I'm a Full-Stack Developer. I work at **Dell Tecnchologies** in development of internal system to support the Brazil sales operations.
 <br><br>
 - Automation of sales-related processes.
 - Development and support for system in ASP.NET MVC / .NET Core and Console Application in C#.
