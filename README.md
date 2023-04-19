@@ -13,9 +13,21 @@ Eu sou desenvolvedor **sua área**.
 
 
 </p>
+<br>
 <hr>
 
 ### Linguagens e Ferramentas:
 
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+
+<div style="display: inline_block"><br>
+  <a align="center><img alt="Angular" height="30" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"/> </a>
+  <a align="center" href="https://postman.com"><img alt="Spring Boot" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></a>
+  <a align="center" href="https://www.php.net"><img alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/></a>
+  <a align="center" href="https://www.docker.com/"><img alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/></a>
+  <a align="center" href="https://www.mysql.com"><img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></a>
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nibironts#2119) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nibiro_gcm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermedecarvalhomachado/)
+<a href="https://steamcommunity.com/id/gordinhofavelado/">![Steam](https://img.shields.io/badge/steam-%237289DA.svg?logo=steam&logoColor=white)</a>
+#
+
