@@ -7,8 +7,6 @@
 <br><br>
 - Automation of sales/finance-related processes.
 - Development and support for system in ASP.NET MVC / .NET Core and Console Application in C#.
-- Querying MS SQL Server and creation of SSIS packages.
-
 </p>
 <br>
 <hr>
