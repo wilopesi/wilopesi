@@ -3,10 +3,10 @@
 
 <p>
 
- 💻 Hi ! I'm a Full-Stack Developer. I work at **Dell Tecnchologies** in development of internal system to support the Brazil sales operations.
+ 💻 Hi ! I'm a Software Engineer. I work at **Dell Tecnchologies** in development and monitoring of buildings and data centers.
 <br><br>
-- Automation of sales/finance-related processes.
-- Development and support for system in ASP.NET MVC / .NET Core and Console Application in C#.
+- Troubleshooting
+- Development and support for system in ASP.NET MVC / .NET Core and Python Scripts.
 </p>
 <br>
 <hr>
