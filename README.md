@@ -6,7 +6,7 @@
  💻 Hi ! I'm a Software Engineer. I work at **Dell Tecnchologies** in development and monitoring of buildings and data centers.
 <br><br>
 - Troubleshooting
-- Development and support for system in ASP.NET MVC / .NET Core and Python Scripts.
+- Development and support for system in ASP.NET MVC / .NET Core/ Angular and Python Scripts.
 </p>
 <br>
 <hr>
