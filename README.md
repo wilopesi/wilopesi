@@ -1,6 +1,4 @@
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Willian Lopes&color=f8efd4&style=for-the-badge&logo=GitHub">
-
 <p>
 
  💻 Hi ! I'm a Software Engineer. I work at **Dell Tecnchologies** in development and monitoring of buildings and data centers.
