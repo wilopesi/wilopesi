@@ -1,7 +1,7 @@
 
 <p>
 
- 💻 Hi ! I'm a Software Engineer. I work at **Dell Technologies** in development and monitoring of buildings and data centers.
+ 💻 Hi ! I'm a Software Engineer. I work at **Stone** in development and monitoring of payments solutions.
 <br><br>
 - Troubleshooting
 - Development and support for system in ASP.NET MVC / .NET Core/ Angular and Python Scripts.
